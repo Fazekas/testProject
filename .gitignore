@@ -1,0 +1,11 @@
+X_train.csv
+X_train.npy
+X_train.npz
+y_train.csv
+y_train.npy
+my_forest_model.pkl
+ch3_train_data.txt
+/venv
+/datasets
+.idea
+.ipynb_checkpoints
